@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @MC-Spraint AKA Snahashis Das
-- 👀 I’m interested in web development the most.
-- 🌱 I’m currently learning Angular...
-- 💞️ I’m looking to collaborate on a project that I'd feel glad to count as one of my best testimonies..
+- 👋 Hi, I’m MC-Spraint AKA Snahashis Das
+- 👀 I'm a full-stack web developer. I have skills in
+     HTML5,CSS3,JavaScript,ES6,Typescript,NodeJs,
+     Express,Angular11,MongoDb(NoSQL),Bootstrap4,
+     Socket.io,EJS and many new technologies..
+- 🌱 I’m currently learning Ionic.
+- 💞️ I like challenging projects.
 - 📫 mcspraint954@gmail.com <<You can contact me here
 
 <!---
