@@ -1,9 +1,7 @@
 - 👋 Hi, I’m MC-Spraint AKA Snahashis Das
-- 👀 I'm a full-stack web developer. I have skills in
-     HTML5,CSS3,JavaScript,ES6,Typescript,NodeJs,
-     Express,Angular11,MongoDb(NoSQL),Bootstrap4,
-     Socket.io,EJS and many new technologies..
-- 🌱 I’m currently learning Ionic.
+- 👀 I'm a full-stack(MEAN) web developer.
+- 🌱 Beside MEAN stack I also know LAMP and so many new techs.
+- My first portfolio https://spraintswebtech.herokuapp.com/home
 - 💞️ I like challenging projects.
 - 📫 mcspraint954@gmail.com <<You can contact me here
 
